@@ -1,0 +1,19 @@
+.App {
+  text-align: center;
+}
+
+.main-heading {
+  text-align: center;
+}
+
+.data-table{
+  width: 100%;
+  border-collapse: collapse;
+  border: 1px solid #000;
+}
+
+.data-table th, td {
+  padding: 10px;
+  border: 1px solid #000;
+}
+
